@@ -1,0 +1,7 @@
+{
+  "name": "Elite AI Visual Analyst",
+  "description": "Professional image prompt engineer that analyzes uploaded images to generate production-quality, cinematic prompts with character placeholders and style metadata.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
